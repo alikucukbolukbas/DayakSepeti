@@ -1,0 +1,81 @@
+html {
+  margin: 0 ;
+  padding: 0;
+  box-sizing: border-box;
+}
+/* body {
+  background-image: linear-gradient(#fff, #FA0050 );
+} */
+
+.navbar-brand {
+  font-family: 'Lobster', cursive;
+  font-size: 2rem;
+}
+
+.vl {
+  border-left: 1px grey solid;
+  height: 2rem;
+}
+
+#navbar-name {
+  font-size: 3rem;
+}
+
+
+.colorClass {
+  color: #FA0050 !important;
+}
+
+h6 {
+  margin: 0;
+  padding-top: 5px;
+}
+
+.textBigger {
+  font-size: 2rem;
+  padding-top: 10rem;
+  
+}
+
+.input-group {
+  margin-top: 6rem;
+}
+
+.textMiddle {
+  font-size: 1.5rem;
+}
+
+.my-btn-outlined {
+  border: 1px solid #fa004f77;
+}
+
+.my-input-outlined {
+  border: 1px solid #fa004f77;
+}
+
+.my-input-outlined:focus {
+  outline: none;
+  border-color: #fa004f77;
+  box-shadow: 0 0 10px #fa004f77;
+}
+
+.my-btn-outlined:hover {
+  color: #fff;
+  background: #FA0050;
+  border: 1px solid grey;
+}
+
+a:link {
+  color:#FA0050;
+}
+
+.img-first {
+  width: 118%;
+}
+
+
+
+.bg-myColor {
+  background: #fa004f98;
+}
+
